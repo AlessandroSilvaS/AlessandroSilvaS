@@ -11,10 +11,11 @@
 
 <div align="center">
   <a href="https://github.com/AlessandroSilvaS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroSilvaS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas"/>
+    <img height="180em" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=AlessandroSilvaS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroSilvaS&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" alt="Linguagens mais usadas"/>
   </a>
 </div>
+
 
 #Tecnologias de domínio
 
